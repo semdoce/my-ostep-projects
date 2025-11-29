@@ -1,2 +1,2 @@
 # my-ostep-projects
-Projetos feitos durante a graduação na matéria de SO / Projects made during graduation on OS classes.
+Projetos que eu fiz pra matéria de SO / Projects i made for OS classes.
